@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: boracanbula
+Version: 0.0.1
+Summary: A simple package for calculating statistics.
+Author-email: Bora Canbula <bora.canbula@cbu.edu.tr>
+Project-URL: Homepage, https://github.com/canbula/boracanbula
+Keywords: canbula,statistics
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6.0
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# boracanbula
