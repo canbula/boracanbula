@@ -1,8 +1,6 @@
 import sys
 
-
 sys.path.append(".")
-
 
 import pytest
 from src.boracanbula import statistics
@@ -25,4 +23,4 @@ from src.boracanbula import statistics
 def test_mean(input, expected):
     assert (
         statistics.mean(input) == expected
-    ), "failed on test_mean with input {input} and expected {expected}"
+    ), f"failed on test_mean with input {input} and expected {expected}"
